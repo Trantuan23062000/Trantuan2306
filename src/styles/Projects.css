@@ -1,0 +1,24 @@
+.projects {
+  padding: 50px 0;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+
+
+/* Responsive styles for Projects */
+@media (max-width: 768px) {
+  .projects {
+    padding: 30px 0;
+  }
+
+  .project h3 {
+    font-size: 20px;
+  }
+
+  .project p {
+    font-size: 14px;
+  }
+}

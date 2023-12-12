@@ -1,0 +1,20 @@
+/* Add styles for the Contact section and button */
+
+.contact {
+  padding: 50px 0;
+}
+
+.contact button {
+  background-color: #1f68b6;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 15px;
+  border: none;
+}
+
+.contact button:hover {
+  background-color: #010509;
+}
